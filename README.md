@@ -1,12 +1,39 @@
-# RocketDildas - Pioneer 10K Portfolio
+# RocketDildas | Pioneer 10K Portfolio
 
-A mechanical design and simulation portfolio for the RocketDildas competition project. This page shows a CAD preview and selected plots from the preliminary OpenRocket review.
+Mechanical design and simulation work for the RocketDildas competition project. This portfolio shows fin modeling in SOLIDWORKS, the Pioneer 10K vehicle layout in OpenRocket, and selected results presented at the Mission Design Review.
 
-## CAD visualization
+[Fin design in SOLIDWORKS](#fin-design-in-solidworks) · [OpenRocket vehicle layout](#openrocket-vehicle-layout) · [Simulation results](#preliminary-openrocket-results) · [Presentation material](#presentation-material)
+
+## Fin design in SOLIDWORKS
+
+![RocketDildas 3K fin display model in side view, aft close-up, and rear view](assets/solidworks-fin-display.png)
+
+The RocketDildas 3K CAD study shows the fin profile, the fin-to-airframe transition, and the arrangement of the fins in rear view.
+
+### Pioneer 10K v3 CAD preview
 
 ![Pioneer 10K v3 CAD preview with side, aft-detail, and rear views](assets/pioneer-v3-cad-preview.png)
 
-The Pioneer 10K v3 display model shows the external airframe in side and rear views, with a close-up of the aft section.
+The v3 display model shows the Pioneer 10K external airframe, with an aft close-up and a rear view.
+
+## OpenRocket vehicle layout
+
+![Pioneer 10K exterior in the OpenRocket 3D viewer](assets/openrocket-pioneer-10k-3d.png)
+
+The OpenRocket 3D view shows the exterior profile. Blue marks the center of gravity (CG), and red marks the center of pressure (CP).
+
+### Pioneer 10K v4 layout from the design review
+
+![Labeled OpenRocket schematic and v4 cutaway with the payload, avionics coupler, and named bays](assets/pioneer-10k-v4-review-layout.png)
+
+The diagram identifies the main vehicle sections and shows how the payload, avionics, and recovery bays are presented in the cutaway. Figure from the ORBITL Mission Design Review, page 9.
+
+<details>
+<summary>View the original OpenRocket side schematic</summary>
+
+![Original side schematic from OpenRocket](assets/openrocket-pioneer-10k-layout.png)
+
+</details>
 
 ## Preliminary OpenRocket results
 
@@ -34,4 +61,3 @@ The two plots show different quantities under different wind settings. Both are 
 ## Presentation material
 
 The PowerPoint file in this repository is the altitude-simulation slide used in the project presentation.
-
