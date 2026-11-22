@@ -10,6 +10,8 @@ Mechanical design and simulation work for the RocketDildas competition project. 
 
 The RocketDildas 3K CAD study shows the fin profile, the fin-to-airframe transition, and the arrangement of the fins in rear view.
 
+[Download the RocketDildas 3K display model (.step)](models/RocketDildas-3K-Fin-Display.step?raw=true)
+
 ### 3D CAD surface view
 
 ![Angled view of the 3D airframe and fins with surface edges visible](assets/fin-cad-surface-view.png)
