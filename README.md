@@ -2,9 +2,9 @@
 
 Mechanical design and simulation work for the RocketDildas competition project. This portfolio shows fin modeling in SOLIDWORKS, the Pioneer 10K vehicle layout in OpenRocket, and selected results presented at the Mission Design Review.
 
-[Fin design in SOLIDWORKS](#fin-design-in-solidworks) · [OpenRocket vehicle layout](#openrocket-vehicle-layout) · [Simulation results](#preliminary-openrocket-results) · [Presentation material](#presentation-material)
+[Pioneer 10K v3 CAD preview](#pioneer-10k-v3-cad-preview) · [OpenRocket vehicle layout](#openrocket-vehicle-layout) · [Simulation results](#preliminary-openrocket-results) · [Presentation material](#presentation-material)
 
-## Fin design in SOLIDWORKS
+### Pioneer 10K v3 CAD preview
 
 ![RocketDildas 3K fin display model in side view, aft close-up, and rear view](assets/solidworks-fin-display.png)
 
