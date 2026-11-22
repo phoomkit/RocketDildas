@@ -10,11 +10,23 @@ Mechanical design and simulation work for the RocketDildas competition project. 
 
 The RocketDildas 3K CAD study shows the fin profile, the fin-to-airframe transition, and the arrangement of the fins in rear view.
 
+### 3D CAD surface view
+
+![Angled view of the 3D airframe and fins with surface edges visible](assets/fin-cad-surface-view.png)
+
+The angled view makes the fin profile and the transition between the fins and the body visible.
+
 ### Pioneer 10K v3 CAD preview
 
 ![Pioneer 10K v3 CAD preview with side, aft-detail, and rear views](assets/pioneer-v3-cad-preview.png)
 
 The v3 display model shows the Pioneer 10K external airframe, with an aft close-up and a rear view.
+
+### CFD comparison of symmetric and swept fins
+
+![Mach contours from the RPL fin study. Symmetric fin on the left and swept fin on the right](assets/fin-cfd-comparison.png)
+
+The RPL study reported similar airflow around both fins and about **0.8% difference in fin drag** for the single case shown. The blue region behind the body shows slower air in the base wake. The comparison used a thin-plate fin model. Figure excerpt from *Fin Design — Swept vs Symmetric (RPL CFD)*, page 1.
 
 ## OpenRocket vehicle layout
 
